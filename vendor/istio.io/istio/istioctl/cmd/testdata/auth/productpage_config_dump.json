@@ -3908,10 +3908,10 @@
     {
      "version_info": "2019-04-02T19:54:27Z/16",
      "listener": {
-      "name": "10.0.14.38_14267",
+      "name": "10.0.15.38_14267",
       "address": {
        "socket_address": {
-        "address": "10.0.14.38",
+        "address": "10.0.15.38",
         "port_value": 14267
        }
       },
@@ -4880,10 +4880,10 @@
     {
      "version_info": "2019-04-02T19:54:27Z/16",
      "listener": {
-      "name": "10.0.14.169_16686",
+      "name": "10.0.15.169_16686",
       "address": {
        "socket_address": {
-        "address": "10.0.14.169",
+        "address": "10.0.15.169",
         "port_value": 16686
        }
       },
@@ -5204,10 +5204,10 @@
     {
      "version_info": "2019-04-02T19:54:27Z/16",
      "listener": {
-      "name": "10.0.14.38_14268",
+      "name": "10.0.15.38_14268",
       "address": {
        "socket_address": {
-        "address": "10.0.14.38",
+        "address": "10.0.15.38",
         "port_value": 14268
        }
       },
@@ -8877,8 +8877,8 @@
          "zipkin.istio-system.svc.cluster:9411",
          "zipkin.istio-system.svc",
          "zipkin.istio-system.svc:9411",
-         "10.0.14.1",
-         "10.0.14.1:9411"
+         "10.0.15.1",
+         "10.0.15.1:9411"
         ],
         "routes": [
          {
