@@ -7,7 +7,12 @@ require 'pry'
 module Cloudfoundry
   module Copilot
     class Client
-      def do_print
+      def self.do_print
+        print "It's Working fine!!!"
+      end
+    end
+    class Client2
+      def self.do_print
         print "It's Working fine!!!"
       end
     end
