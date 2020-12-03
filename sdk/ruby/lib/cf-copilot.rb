@@ -2,7 +2,7 @@
 
 require 'copilot/protos/cloud_controller_pb'
 require 'copilot/protos/cloud_controller_services_pb'
-require 'pry'
+# require 'pry'
 
 module Cloudfoundry
   module Copilot
